@@ -1,5 +1,3 @@
 # Journal du binôme (version B)
 - [B] Bien reçu, à mon tour !
 N'importe quoi
-
-Test de texte 
