@@ -1,1 +1,1 @@
-Un texte, c'est vraiment n'importe quoi
+# Journal du binôme (version B)
